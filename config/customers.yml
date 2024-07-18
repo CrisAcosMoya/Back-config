@@ -1,0 +1,10 @@
+build:
+  version: "v0.0.2"
+
+support:
+  message: "Bienvenidos al sistema bancario clientes accenture"
+  contactInfo:
+    name: "Cristhofer Acosta"
+    email: "Crac957@gmail.com"
+  phoneNumbers:
+    - (57) 3194798450
