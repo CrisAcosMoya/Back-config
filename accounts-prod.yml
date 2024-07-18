@@ -1,0 +1,10 @@
+build:
+  version: "v0.0.2"
+
+support:
+  message: "Bienvenidos al sistema de cuentas de accenture"
+  contactInfo:
+    name: "Product Owner - cuentas"
+    email: "product.owner@gmail.com"
+  phoneNumbers:
+    - (57) 3194798450
