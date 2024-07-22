@@ -2,7 +2,7 @@ build:
   version: "v0.0.2"
 
 support:
-  message: "Bienvenidos al sistema de cuentas de accenture"
+  message: "Bienvenidos al sistema de cuentas de accenture || rabbitMq"
   contactInfo:
     name: "Product Owner - cuentas"
     email: "product.owner@gmail.com"
