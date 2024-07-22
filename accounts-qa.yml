@@ -2,7 +2,7 @@ build:
   version: "v0.0.2"
 
 support:
-  message: "Bienvenidos al sistema bancario de cuentas accenture"
+  message: "Bienvenidos al sistema bancario de cuentas accenture - modificado"
   contactInfo:
     name: "QA - cuentas"
     email: "product.tester@gmail.com"
